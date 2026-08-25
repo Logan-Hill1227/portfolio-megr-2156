@@ -1,7 +1,5 @@
 # A1 – [Topic]
 
-## Objective
-
 
 ## Analyze
 Task A: Portfolio Analysis
