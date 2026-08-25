@@ -42,7 +42,7 @@ Left Jaw, this is an elongated memeber with a wider area near the end for grip a
   <img width="61" height="165" alt="image" src="https://github.com/user-attachments/assets/1d587a67-4ab7-44c0-b989-d47ad02a602e" />
 Right jaw, same as the left just as acts as a complimentary opposing force. 
 
-<img width="51" height="72" alt="image" src="https://github.com/user-attachments/assets/85ddeca9-e63f-44b8-96e2-488c0a05eaf1" />
+  <img width="51" height="72" alt="image" src="https://github.com/user-attachments/assets/85ddeca9-e63f-44b8-96e2-488c0a05eaf1" />
 Spring, the bent geometry of this allows for the mechanical functionality. The sping uses its arms to wrap around the two jaw members and uses them as a clamping force in order to produce this mechanical motion. 
 
 d) Patent; US 2,466,284 Clothespin and Clamp
@@ -55,7 +55,12 @@ d) Patent; US 2,466,284 Clothespin and Clamp
   
   
 ## Decide
+Homepage Identity: The foundation purpose of the homepage is to give website viewers an insigth of my portfolio as an engineer and explanations of the contents contained within it. Throughout the portfolio the contents are displayed and organized with intetion, so that the viewers will have smooth accesibility accessing whatever it is they are needing to access. Visitors will also be able to view coursework, and projects allowing them to determine how and why the information on here may be of importance to them.
+
+Intentional Customization: One intentional change I made was the removal of the objective topic. This change felt necessary because the home page perfectly encapsualtes the summary of my portfolio as well as multiple sub sections that give insight to the other topics of intrest. Also, the decide tab, and about me sections give a sufficent explanation of me, the portfolio, and the contents.
+
+Documentation Standard: The quality of my production this semester will be that of, proffesion, consistency, and effiecny. These will be done with intention and proper presentation. 
 
 
 ## Communicate
-
+Visit the "About Me" tab.
