@@ -20,6 +20,16 @@ Once I finalized my calcultions, I then used method of Joints and free-body diag
 
 <img width="1640" height="2003" alt="IMG_0068" src="https://github.com/user-attachments/assets/2098f435-66b5-4232-8159-fdae27294e62" />
 
+
+
+
+Finializing my calculations I was able to move on to the next step. This step included calculating the cross-sectional area for all members using a given safety factor of 3.5 and given yield strength. To do this, I first had to list all the knowns and unkowns to set up my symbolic calcultion to then spring forward my numerical equations. Once this was completed I was able to succesfully approximate the total weight of the truss.
+
+
+
+<img width="1640" height="1991" alt="IMG_0069" src="https://github.com/user-attachments/assets/ef2d1fdd-bf7f-4c3c-b2ef-9366a2a63d24" />
+<img width="1640" height="2005" alt="IMG_0070" src="https://github.com/user-attachments/assets/097f9f32-6cd3-4b37-9447-f9486de8c574" />
+
 ## Analyze
 
 
