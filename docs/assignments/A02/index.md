@@ -10,7 +10,7 @@
 <img width="1640" height="2017" alt="IMG_0066" src="https://github.com/user-attachments/assets/a25b6f62-5c67-457b-8835-1936052177aa" />
 
 
-
+## Analyze
 Following this step, I used my knowledge of statics and begun calcultions of all external forces in order to find internal forces of the geometry.
 
 <img width="1640" height="2016" alt="IMG_0067" src="https://github.com/user-attachments/assets/c5e4eed9-a2a1-4aa4-9499-396fda0d0589" />
@@ -30,7 +30,16 @@ Finializing my calculations I was able to move on to the next step. This step in
 <img width="1640" height="1991" alt="IMG_0069" src="https://github.com/user-attachments/assets/ef2d1fdd-bf7f-4c3c-b2ef-9366a2a63d24" />
 <img width="1640" height="2005" alt="IMG_0070" src="https://github.com/user-attachments/assets/097f9f32-6cd3-4b37-9447-f9486de8c574" />
 
-## Analyze
+
+
+
+
+Next step of this assignment was to find the cross-sectional area of the pins connecting the truss together. In my case I have 5 pins that are needed. The given shear stregth was 170 ksi and a density of 0.278lb/in^3. We can assume the elements are in compression and therefore won't fail in buckling. Just like the above step listing the known and unknown qualities came first. After solving symbollically and numerically, I was then able to determine the combined weight of the pins which is represented in N. My calculations are recorded below.
+
+
+<img width="1640" height="2115" alt="IMG_0071" src="https://github.com/user-attachments/assets/2f0cae07-c79a-48ab-bd6d-11947a041681" />
+
+
 
 
 ## Decide
