@@ -41,6 +41,28 @@ Next step of this assignment was to find the cross-sectional area of the pins co
 
 
 
+Once completing all the necessary calculations, I moved on to the CAD portion of this assignment. I decided to use Fusion for this as I am very familiar witht he software. Since Fusion does not have A500 Steel I decided to use regular steel as it and A500 share very similar if not the same core properties. In the image below I provided an example of one of the member beams. In this instance I decided to use a 18.55mm x 10.00mm square extruded out to 6m to construct a beam that will both provided suffiecnt area for holes for the pins, and as well to get the proper cross-sectional area in.
+
+
+<img width="1807" height="903" alt="Screenshot 2026-09-02 234026" src="https://github.com/user-attachments/assets/9192de5a-57ba-4c72-be16-45d7cf41f99a" />
+
+
+
+
+On each end of the beam I attatched two holes, each with a diameter of 6.02mm. This allows for the pins to slot in perfectly. Once I completed this step I created 6 more beams as my truss has 7 members.
+
+Following this step I had to construct the pins for my truss. I used the dimensions of 6.02mm x 8.02mm for my pins, these dimensions allowed for my truss to be structurally sound and effiecent, all while ensuring identical cross-sectional geometry was implemented.
+<img width="1547" height="1070" alt="Screenshot 2026-09-02 235135" src="https://github.com/user-attachments/assets/ae5b2255-60ba-47e8-a8e9-6a18e5dfd1a8" />
+<img width="1877" height="963" alt="Screenshot 2026-09-02 235345" src="https://github.com/user-attachments/assets/8b55ffe7-8ba4-4076-8315-620c9f531004" />
+
+
+
+
+Once this was all completed I had to compare the CAD calculations to my hand. As said since A500 was not available Steel has slighlty different values which could be one reason why my values were slightly off. But, my answers were only differnt by a few hundreths which makes my truss ensure that the safety factor, weight optimazation, and geometric constraints were satasfied while maintaining structural integrity and stability.
+
+<img width="377" height="512" alt="Screenshot 2026-09-03 001830" src="https://github.com/user-attachments/assets/1f0e4539-c446-4294-b5bd-cc9231b6f9ed" />
+<img width="377" height="510" alt="Screenshot 2026-09-03 002803" src="https://github.com/user-attachments/assets/147227af-0abf-4a9a-af46-5f5165b2e93e" />
+
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
