@@ -66,6 +66,22 @@ Once this was all completed I had to compare the CAD calculations to my hand. As
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
+I chose the geometry of 3 triangles because from my prior knowledge I know triangles are the strongest and most structurally sound shapes there is. Also with 3 equillateral triangles it ensured identical angles and even matching forces which made caclulations a lot smoother.
 ## Communicate
+Through out this process I was able to learn many new qualities and experince some hardship and challenges as well. One of the main lessons I learned was that it is very important o verify your work and assumptions. It sounds generic but it is essential to succesfully produicng a stable engineering design. In this project in specific, the truss calculations, CAD model, FBD's and other calculatopns all depended on the accuracy of the properties. So if an inaccuracy occured it would skew the whole process.
+
+In total for this assignment I took about 13-14 hours. It was very time consuming with most of the time coming from research and the CAD modeling as well as verifying my calcultions. I started early which was a major key in this so I wouldn't rush through and make any uneccesary mistakes.
+
+## Likelihood of Failure Modes in Truss Components
+
+Part 1 – Truss Members
+Each truss member is under either tension or compression and may fail due to the applied loading. For each member:
+
+**Identify the expected failure mode (yielding, fracture, or buckling).**
+
+**State whether the material is ductile or brittle.**
+
+**Support your choice using stress comparisons and simple reasoning.**
+
+**Propose a design modification that could reduce the likelihood of this failure.**
 
