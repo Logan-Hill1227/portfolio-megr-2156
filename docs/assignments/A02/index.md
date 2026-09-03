@@ -77,11 +77,27 @@ In total for this assignment I took about 13-14 hours. It was very time consumin
 Part 1 – Truss Members
 Each truss member is under either tension or compression and may fail due to the applied loading. For each member:
 
-**Identify the expected failure mode (yielding, fracture, or buckling).**
+**1-Identify the expected failure mode (yielding, fracture, or buckling).**
+For members, AE, BC, CE they are all in compression, which in result would make buckling the expected failure mode. WHile members AD, BE, DE are in tension having yielidng as the expected failure mode. CD is a zero-force member so in result no failure mode is expected.
+**2-State whether the material is ductile or brittle.**
+The material is brittle.
+**3-Support your choice using stress comparisons and simple reasoning.**
+For the members in compression, they are assumed to not fail under buckling. Meaning they are agaisnt compressive stress, also having the calculated stresses being below the alowable stress ensuring they are stable. For the members in tension, the calculated stressesa are below the ablowable amount, meanig they are against yielding stress.
+**4-Propose a design modification that could reduce the likelihood of this failure.**
+One modification I would propose would be to add additional diagnol support memebrs. This adds another load for the applied forces causing the load to be evenly distributed, reducing the possibility of overload.
 
-**State whether the material is ductile or brittle.**
 
-**Support your choice using stress comparisons and simple reasoning.**
+## Part 2 – Pin Connections
 
-**Propose a design modification that could reduce the likelihood of this failure.**
+**1-Identify the expected failure mode of the pin.**
+For the pin, expected failure mode would be shear yielding. The connection is designed as only a single-shear connection this results in shear stress across one plane of the pin.
+**2-Support your answer with data from credible, known sources.**
+Using data from https://engineeringlibrary.org/reference/lug-analysis-air-force-stress-manual
+The author explains that having a single-shear joint, increases the likelihood of shear yielding occuring due to the fact in their alculations with a single pin in place the risk of yielding and bending are more likely to occur.
+**3-Propose a design modification to reduce the likelihood of this failure**
+One modification to make would to be to increase the diameter of the pin which would then decrease the shear stress further below the allowed.
+
+## CAD Files
+
+
 
