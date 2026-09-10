@@ -58,7 +58,9 @@ As shown above I compared my calculation from my hand  to fusions calculation an
 ## Pin Hole
  Following this assignment we were asked to imagine if a substantial pin hole were on the left side of this par. Using the given (Kt) for this hole in a flat bar in tension as well as our FEA's nominal stress from the hole we need to estimate peak stress and if it will pass the safety factor as well. The formula for the stress concentration factor of K would be K=1+q(kt-1). USing knowledge of the ductility of aluminum we can assume q=0. From this assumption and calculation we end up with identical peak stress and the Kt the same, meaning it would pass the safety factor.
 
-## LEssons Learned. Some lessons I learned includ how to do FEA in CAD. I have never done a test like this before so getting to use this software with real application was a great lesson in and of itself. One mistake I did make was at first having the load act on the top face of the bar which would have really skewed my results. All in all I spent roughly 4.5 hours from start to finish.
+## Lessons Learned 
+
+Some lessons I learned includ how to do FEA in CAD. I have never done a test like this before so getting to use this software with real application was a great lesson in and of itself. One mistake I did make was at first having the load act on the top face of the bar which would have really skewed my results. All in all I spent roughly 4.5 hours from start to finish.
 
 ## 2157 Only
 
