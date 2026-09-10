@@ -65,3 +65,8 @@ Some lessons I learned includ how to do FEA in CAD. I have never done a test lik
 ## 2157 Only
 
 When changing parameters to see if the length will differ I assume thelength would get longer if each were increased. To check I switched the height and width to 0.75 in each, the load to 500 lbf and the modulus to 11x10^6. My orginal length was 56.25 inches and my new length is 111.37 which validates my prediction. 
+
+
+## CAD File
+https://a360.co/4xhI0Um
+
