@@ -27,9 +27,20 @@ I was given the ability to decide the length and base dimensions of the feature 
 
 
 ## Feature 2
+Similar to Feature !, I went with the same base and height dimensions in order to keep material low, as well as keep the mount a simple shape to ease calculations. Just like feature 1, I drew the FBD to help me find my forces and missing values. Once again, I chose the stress height for the same reason as feature 1. All work is shown below.
+
+
+
+
+<img width="1640" height="2011" alt="IMG_0075" src="https://github.com/user-attachments/assets/e27bc2ae-210d-479d-8eef-b358553a813e" />
 
 
 ## Sketch
+Below I drew a hand sketch of the isometric view for the part, including important dimesnions.
+
+
+
+<img width="1640" height="2010" alt="IMG_0076" src="https://github.com/user-attachments/assets/6d723f5f-4b32-400d-81bc-2abdd7484962" />
 
 
 ## CAD Model (Parametric)
