@@ -44,9 +44,41 @@ Below I drew a hand sketch of the isometric view for the part, including importa
 
 
 ## CAD Model (Parametric)
+Moving onto the next part of the assignment was the CAD model. THe first thing I did was set my parameters in Fusion 360. 
+
+
+
+<img width="1183" height="522" alt="Screenshot 2026-09-17 001348" src="https://github.com/user-attachments/assets/abe401ad-8b4e-426c-8383-1b52d9d3870c" />
+
+
+
+
+Following this, I started drawing Fature 1. After creaing the base part and extruding up to my found height, I then inserted the 18mm indent found to hold the gearbox. I extruded this object 2mm into my part for stablization. Using the drawing of the gearbox, I used the 22mm for the bolt holes to then place 4 3.4mm holes each 90 degrees apart around the 22mm circle (centered) fixed about the indent. These bolt holes were extruded through the whole part. After this I then started on part two, doing the same steps as well as suing more dimensions from the gearbox to place for addtional bolt holes, on that feature.
+
+
+
+
+<img width="661" height="427" alt="Screenshot 2026-09-17 001626" src="https://github.com/user-attachments/assets/f4cd3830-6cee-4473-90ab-25840df08bf0" />
+
+<img width="1902" height="1066" alt="Screenshot 2026-09-17 001758" src="https://github.com/user-attachments/assets/92d1daf0-90e9-4e17-9d4a-28e213a17749" />
+
+<img width="1896" height="1072" alt="Screenshot 2026-09-17 001817" src="https://github.com/user-attachments/assets/4ef7486e-41d8-4067-a3c7-95f6724047bd" />
+
+<img width="1780" height="968" alt="Screenshot 2026-09-17 004002" src="https://github.com/user-attachments/assets/a15c54df-82ff-470d-8c67-bc6ae3ff3c31" />
+
+<img width="1562" height="1005" alt="Screenshot 2026-09-17 004015" src="https://github.com/user-attachments/assets/2812a756-055c-4130-b3f2-0a32a9f74efa" />
+
+
+
 
 
 ## 2157 Only
+After succesfully completeing my CAD model, I then created a multiview drawing within Fusion. I included a front, top, side and isometric view as well as applying ASME standards.
 
 
-Lessons Learned
+
+<img width="1167" height="813" alt="Screenshot 2026-09-17 005457" src="https://github.com/user-attachments/assets/8fc9cec8-f72c-4af0-994e-08b77b788f7b" />
+
+
+## Lessons Learned
+From this assignment I learned how the math behind the parameters trasnlates into the actual design. It was cool to see just how my calculations serves a legitmate purpose when designing parts. This assignment had some challenges but mostly went by pretty smooth. I spent approximately 3 hours on this assignment in total.
