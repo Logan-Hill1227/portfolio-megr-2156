@@ -44,6 +44,9 @@ Below I drew a hand sketch of the isometric view for the part, including importa
 
 
 ## CAD Model (Parametric)
+
+CAD File: https://a360.co/4yHDDTM
+
 Moving onto the next part of the assignment was the CAD model. THe first thing I did was set my parameters in Fusion 360. 
 
 
