@@ -36,7 +36,18 @@ For this assignment I was tasked with the following objectives.
 
 ## Analyze
 
-# Feature A
+# Feature A Stress & Stiffness
+
+For feature A I treated it as a solid circular cantilever bean fixed at the base with Feature B. For this I chose ASTM-A36 steel whihc had stress yield of 36,000psi and a modulus(E) of 29,000,000. Below show the steps I took for both the stress, and stiffness analysis to find the minimum required diameter. I treated this material as linear, elastic, and isotropic assuming shear failure was non-governing.
+
+
+
+<img width="1431" height="1937" alt="IMG_0080" src="https://github.com/user-attachments/assets/dd54c028-772c-4fd6-a38d-967148c8f249" />
+
+
+
+Following this I found that the Stress diameter governed over the stiffness so I chose that vaue.
+
 
 ## Decide
 
