@@ -46,8 +46,32 @@ For feature A I treated it as a solid circular cantilever bean fixed at the base
 
 
 
-Following this I found that the Stress diameter governed over the stiffness so I chose that vaue.
+Following this I found that the Stress diameter governed over the stiffness so I chose that value.
 
+# Feature B Stress & Stiffness
+
+Continuing, I designed Feature B. I carried over my values to this aswell and treated it as an axially loaded bar in vertical tension. In order to keep clean parameters I set w=diameter of A, and assumed B was acting as a straight bar in pure uniaxial tension.
+
+
+<img width="1483" height="1007" alt="IMG_0081" src="https://github.com/user-attachments/assets/f028ba78-af74-440e-825f-bdeb570ef9b3" />
+
+
+
+Once again, the tensile stress governed over the stifness. With this I was able to find the minimum thickness required which is shown above. 
+
+
+
+# Feature C Stress & Stiffness
+
+
+For Feature C I designed the bottom flange of the assembly. Here, I acted as this were a support beam with a load concntraited in the center with 800 lbf. As in Feature B I used the same given parameters except switching my length to 4. I kept the same cross-sectional width as the diameter from A. I assumed Feature C negleted shear as well. 
+
+
+<img width="1435" height="1518" alt="IMG_0082" src="https://github.com/user-attachments/assets/899aa9e4-e935-4d3c-8776-d80fce3b929b" />
+
+
+
+Here again Stress governed stiffness. This allowed me to find the minimum flange thickness.
 
 ## Decide
 
