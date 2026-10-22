@@ -57,6 +57,19 @@ Here I use 0.10in per unit.
 
 
 
+# Design 2
+
+For my second design I decided to increase the thickness of Section B as I saw from my simulations that a majority of all stress was coming from this area. Below are the intial results. As in my first design all of the steps were repeated using same mesh values as well. They are shown below. 
+
+
+<img width="762" height="428" alt="Screenshot 2026-10-21 233452" src="https://github.com/user-attachments/assets/91eb598e-0d90-472a-8aaf-3f34343b5d0a" />
+Here I made the total thickness 0.50in to increase strength and stability.
+
+<img width="1396" height="866" alt="Screenshot 2026-10-21 235107" src="https://github.com/user-attachments/assets/8a0fb98f-2c48-44a7-a1e4-0d097ece5cf7" />
+<img width="1220" height="841" alt="Screenshot 2026-10-21 235126" src="https://github.com/user-attachments/assets/29ef343f-0e8f-4642-8982-d5fbf8760917" />
+<img width="1307" height="837" alt="Screenshot 2026-10-21 235139" src="https://github.com/user-attachments/assets/d9d9d06b-6491-4ff5-aa7f-700dbf6cd560" />
+
+
 
 
 
