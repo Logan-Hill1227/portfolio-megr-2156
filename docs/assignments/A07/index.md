@@ -149,4 +149,5 @@ Throughout this whole assignment it really improved my engineering mindset in co
 
 ## CAD File
 https://a360.co/4BkJOiO
+https://a360.co/47sxxee
 
