@@ -35,6 +35,16 @@ I first started by doing my FEA using 3 different meshes on Fusion 360. I starte
 <img width="1792" height="900" alt="Screenshot 2026-10-21 231817" src="https://github.com/user-attachments/assets/5faf993b-c468-4f82-991e-f1a6601fdc49" />
 <img width="1752" height="817" alt="Screenshot 2026-10-21 231840" src="https://github.com/user-attachments/assets/a773f89f-8e35-4cdc-9639-e4c5ea1dab4d" />
 
+With this simulation giving me my first values needed for calculation I will now perform them using the equation, Convergance = ((Old-New)/New)*100%
+
+After calculating I see need to use a finer mesh which I will demonstrate below.
+
+Using 0.20in per unit now here are the results of my simulation.
+<img width="1877" height="970" alt="Screenshot 2026-10-21 233042" src="https://github.com/user-attachments/assets/4381bc18-a327-4947-bbeb-9964ed2bb334" />
+<img width="1847" height="952" alt="Screenshot 2026-10-21 233101" src="https://github.com/user-attachments/assets/65670ea6-4dab-4f86-8999-78bac33bfe81" />
+<img width="1897" height="947" alt="Screenshot 2026-10-21 233139" src="https://github.com/user-attachments/assets/3ef640cc-97fa-446f-9fd6-ea811b7e3b7d" />
+
+
 
 ## CAD File
 https://a360.co/4BkJOiO
