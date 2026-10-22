@@ -44,6 +44,35 @@ Using 0.20in per unit now here are the results of my simulation.
 <img width="1847" height="952" alt="Screenshot 2026-10-21 233101" src="https://github.com/user-attachments/assets/65670ea6-4dab-4f86-8999-78bac33bfe81" />
 <img width="1897" height="947" alt="Screenshot 2026-10-21 233139" src="https://github.com/user-attachments/assets/3ef640cc-97fa-446f-9fd6-ea811b7e3b7d" />
 
+Just like for the first mesh I will run the calculations with these results.
+
+
+Although these answers are better, I will run a final finer mesh, to see if I can get with the 7%.
+
+Here I use 0.10in per unit.
+
+<img width="1855" height="901" alt="Screenshot 2026-10-21 233349" src="https://github.com/user-attachments/assets/a1c4a02b-8638-4678-bf42-0dd4905c33fa" />
+<img width="1882" height="962" alt="Screenshot 2026-10-21 233400" src="https://github.com/user-attachments/assets/0ef090fc-bb26-40d7-9f51-da42697f8990" />
+<img width="1872" height="987" alt="Screenshot 2026-10-21 233413" src="https://github.com/user-attachments/assets/2b3feb67-18ab-461f-9549-f14f5e8296a8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## CAD File
