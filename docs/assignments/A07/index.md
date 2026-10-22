@@ -15,8 +15,11 @@ In this process, the initial step is to use the bracket design from the A5 and r
 
 <img width="958" height="483" alt="image" src="https://github.com/user-attachments/assets/9bfb6652-3cf7-461c-92c9-9806c7431dd2" />
 
-## Decide
+## Design Iterations
+
+# Design 1
 
 
-## Communicate
+## CAD File
+https://a360.co/4BkJOiO
 
