@@ -27,7 +27,7 @@ I first started by doing my FEA using 3 different meshes on Fusion 360. I starte
 ## Design Iterations
 
 # Design 1
- For my first design, it was my inital design for A5,6. For the mesh as above, I used the deafault fusion mesh with it listed at 0.30in going to 0.20in, 0.10in. Below are images of the first simulation.
+ For my first design, it was my inital design for A5,6. For the mesh as above, I used the deafault fusion mesh with it listed at 0.30in going to 0.20in, 0.10in. Below are images of the first simulation. The total amount of elements are shown in each cooresponding image.
 
 
 
