@@ -10,7 +10,10 @@
 -Document the entire process with images, calculations, and insights.
 
 ## Analyze
+In this process, the initial step is to use the bracket design from the A5 and run FEA on it. Following this create a mesh upon the bracket, run test, identify stress, strain, displacment, and the safety factor.
 
+
+<img width="958" height="483" alt="image" src="https://github.com/user-attachments/assets/9bfb6652-3cf7-461c-92c9-9806c7431dd2" />
 
 ## Decide
 
