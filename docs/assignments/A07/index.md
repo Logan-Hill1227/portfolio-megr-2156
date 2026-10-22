@@ -27,6 +27,13 @@ I first started by doing my FEA using 3 different meshes on Fusion 360. I starte
 ## Design Iterations
 
 # Design 1
+ For my first design, it was my inital design for A5,6. For the mesh as above, I used the deafault fusion mesh with it listed at 0.30in going to 0.20in, 0.10in. Below are images of the first simulation.
+
+
+
+<img width="1840" height="902" alt="Screenshot 2026-10-21 231742" src="https://github.com/user-attachments/assets/35506e0c-26fe-41f7-bb12-27f208c322b9" />
+<img width="1792" height="900" alt="Screenshot 2026-10-21 231817" src="https://github.com/user-attachments/assets/5faf993b-c468-4f82-991e-f1a6601fdc49" />
+<img width="1752" height="817" alt="Screenshot 2026-10-21 231840" src="https://github.com/user-attachments/assets/a773f89f-8e35-4cdc-9639-e4c5ea1dab4d" />
 
 
 ## CAD File
