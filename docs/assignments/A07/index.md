@@ -35,9 +35,9 @@ I first started by doing my FEA using 3 different meshes on Fusion 360. I starte
 <img width="1792" height="900" alt="Screenshot 2026-10-21 231817" src="https://github.com/user-attachments/assets/5faf993b-c468-4f82-991e-f1a6601fdc49" />
 <img width="1752" height="817" alt="Screenshot 2026-10-21 231840" src="https://github.com/user-attachments/assets/a773f89f-8e35-4cdc-9639-e4c5ea1dab4d" />
 
-With this simulation giving me my first values needed for calculation I will now perform them using the equation, Convergance = ((Old-New)/New)*100%
+With this simulation giving me my first values needed for calculation I will now perform them using the equation, Convergance = (|Old-New|/New)*100%
+I use my given values to set them as the intial values in the equations.
 
-After calculating I see need to use a finer mesh which I will demonstrate below.
 
 Using 0.20in per unit now here are the results of my simulation.
 <img width="1877" height="970" alt="Screenshot 2026-10-21 233042" src="https://github.com/user-attachments/assets/4381bc18-a327-4947-bbeb-9964ed2bb334" />
@@ -45,9 +45,13 @@ Using 0.20in per unit now here are the results of my simulation.
 <img width="1897" height="947" alt="Screenshot 2026-10-21 233139" src="https://github.com/user-attachments/assets/3ef640cc-97fa-446f-9fd6-ea811b7e3b7d" />
 
 Just like for the first mesh I will run the calculations with these results.
+From my results I get the equations:
 
+SF (|0.02-0.09|/0.09)*100 = 77.78%
+Stress (|1.532x10^6-333601.649|/333601.649)*100 = 35.92
+Diplacement (|4.952-0.60|/0.60*100 = 72.5
 
-Although these answers are better, I will run a final finer mesh, to see if I can get with the 7%.
+Although these answers are very large, I will run a final finer mesh, to see if I can get with the 7%.
 
 Here I use 0.10in per unit.
 
@@ -55,7 +59,9 @@ Here I use 0.10in per unit.
 <img width="1882" height="962" alt="Screenshot 2026-10-21 233400" src="https://github.com/user-attachments/assets/0ef090fc-bb26-40d7-9f51-da42697f8990" />
 <img width="1872" height="987" alt="Screenshot 2026-10-21 233413" src="https://github.com/user-attachments/assets/2b3feb67-18ab-461f-9549-f14f5e8296a8" />
 
-
+SF (|0.02-0.082|/0.082)*100 = 75.6
+Stress (|1.532x10^6-368278.373|/368278.373)*100 = 31.6%
+Diplacement (|4.952-1.279|/1.279)*100 = 28.7
 
 # Design 2
 
@@ -69,7 +75,7 @@ Here I made the total thickness 0.50in to increase strength and stability.
 <img width="1220" height="841" alt="Screenshot 2026-10-21 235126" src="https://github.com/user-attachments/assets/29ef343f-0e8f-4642-8982-d5fbf8760917" />
 <img width="1307" height="837" alt="Screenshot 2026-10-21 235139" src="https://github.com/user-attachments/assets/d9d9d06b-6491-4ff5-aa7f-700dbf6cd560" />
 
-As in the first design the calculations are repeated using the found values:
+
 
 
 
@@ -80,6 +86,12 @@ To contunue to reach the 7% threshold, I ran my simulation again with a finer me
 <img width="1027" height="813" alt="Screenshot 2026-10-21 235533" src="https://github.com/user-attachments/assets/c9fc718d-d9a6-4438-a75d-e1e3a5465832" />
 <img width="1107" height="817" alt="Screenshot 2026-10-21 235542" src="https://github.com/user-attachments/assets/e53a0fcf-04e0-4863-86c5-119aee97b700" />
 
+
+
+Calculations: 
+SF (|2.948-2.147|/2.147)*100 = 37.307
+Stress (|10184.996-13983.009|/13983)*100 = 27.161
+Displacement (|0.01-0.011|/0.011)*100 = 9.09
 
 Following previous steps I calculated the results to see if I can get 3/3 values in the 7% range.
 
@@ -92,8 +104,11 @@ To conclude I ran one more precautionary, finer mesh to compare results.
 
 And again I computed results:
 
+SF (|2.948-1.238|/1.238)*100 = 138
+Stress (|10184.996-24251.164|/24521.164)*100 = 58.002
+Displacement (|0.01-0.015|/0.015)*100 = 100
 
-
+This isvery alarming as these results are significantly higher than other results.
 
 # Design 3
 
@@ -114,7 +129,6 @@ Following this, just as in the above steps I did my preliminary simulation to ge
 Using the values given by the simulation I calculated to see if I was within range:
 
 
-
 Following these results I ran a finer mesh to see if this would improve results.
 
 
@@ -123,8 +137,9 @@ Following these results I ran a finer mesh to see if this would improve results.
 <img width="1363" height="885" alt="Screenshot 2026-10-22 002026" src="https://github.com/user-attachments/assets/d2f8b987-8259-4859-9938-10b70b023ac1" />
 
 Again, I computed my resluts:
-
-
+SF (|2.871-
+Stress (|10456.526-
+Displacement (|0.008-0.01
 I ran a third, final mesh to see if I could optimize results.
 
 
@@ -144,6 +159,11 @@ Throughout this whole assignment it really improved my engineering mindset in co
 
 ## 2157 Only
 
+I did the same steps as above my link piece, here is the images below.
+<img width="965" height="837" alt="Screenshot 2026-10-22 020002" src="https://github.com/user-attachments/assets/8be60aab-f409-4ab9-bf42-5d19090a44b7" />
+<img width="832" height="862" alt="Screenshot 2026-10-22 020252" src="https://github.com/user-attachments/assets/6ba0d8d2-7dcf-4d3d-b491-d05b1af229b9" />
+<img width="827" height="873" alt="Screenshot 2026-10-22 020302" src="https://github.com/user-attachments/assets/5dfa792f-3d91-48d1-bef2-2385fdf4412d" />
+<img width="788" height="850" alt="Screenshot 2026-10-22 020316" src="https://github.com/user-attachments/assets/6171379b-059a-4ab0-926e-077082de227a" />
 
 
 
