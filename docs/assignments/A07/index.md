@@ -104,9 +104,9 @@ To conclude I ran one more precautionary, finer mesh to compare results.
 
 And again I computed results:
 
-SF (|2.948-1.238|/1.238)*100 = 138
+SF (|2.948-1.238|/1.238)*100 = 13.8
 Stress (|10184.996-24251.164|/24521.164)*100 = 58.002
-Displacement (|0.01-0.015|/0.015)*100 = 100
+Displacement (|0.01-0.015|/0.015)*100 = 10
 
 This isvery alarming as these results are significantly higher than other results.
 
@@ -137,9 +137,9 @@ Following these results I ran a finer mesh to see if this would improve results.
 <img width="1363" height="885" alt="Screenshot 2026-10-22 002026" src="https://github.com/user-attachments/assets/d2f8b987-8259-4859-9938-10b70b023ac1" />
 
 Again, I computed my resluts:
-SF (|2.871-
-Stress (|10456.526-
-Displacement (|0.008-0.01
+SF (|2.871-2.333|/2.333)*100
+Stress (|10456.526-12870.066|/12870.066)*100
+Displacement (|0.008-0.01|/.01)*100
 I ran a third, final mesh to see if I could optimize results.
 
 
@@ -149,6 +149,11 @@ I ran a third, final mesh to see if I could optimize results.
 <img width="1398" height="881" alt="Screenshot 2026-10-22 002322" src="https://github.com/user-attachments/assets/912e30b3-5105-4398-a33c-fa4840bb0fe1" />
 
 With this being my third design, and third mesh ran these are my final results.
+Seeing these values in my final mesh I can already determine this mesh would not meet convergance.
+
+One thing to be noted is the sharp increase in strength per each modification. The table belows proves this. 
+
+<img width="1005" height="152" alt="image" src="https://github.com/user-attachments/assets/45d9429b-eef5-4225-8826-ae3b532318e1" />
 
 
 
@@ -165,7 +170,14 @@ I did the same steps as above my link piece, here is the images below.
 <img width="827" height="873" alt="Screenshot 2026-10-22 020302" src="https://github.com/user-attachments/assets/5dfa792f-3d91-48d1-bef2-2385fdf4412d" />
 <img width="788" height="850" alt="Screenshot 2026-10-22 020316" src="https://github.com/user-attachments/assets/6171379b-059a-4ab0-926e-077082de227a" />
 
+Once I found my preliminary parameters I made necessary changes, including increasing the thickness and adding fillets around the edges of the hole slots, this gave me a great result which is shown below.
+<img width="780" height="836" alt="Screenshot 2026-10-22 022539" src="https://github.com/user-attachments/assets/d89d0fe2-2d3f-4210-a32f-ce5e36f28cec" />
+<img width="742" height="800" alt="Screenshot 2026-10-22 022531" src="https://github.com/user-attachments/assets/95f5b7cd-9c32-45f8-a5eb-1126d47110f8" />
+<img width="775" height="787" alt="Screenshot 2026-10-22 022523" src="https://github.com/user-attachments/assets/e939c766-a493-4c26-9dc5-a81e69f0940a" />
 
+
+
+Using simialr equations I determined my changes sucesfully put this within convergence. 
 
 ## CAD File
 https://a360.co/4BkJOiO
