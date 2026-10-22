@@ -159,7 +159,7 @@ One thing to be noted is the sharp increase in strength per each modification. T
 
 ## Reflection
 
-Throughout this whole assignment it really improved my engineering mindset in continous improvement. By using FEA to determine where members were the weakest and using the information computed to help make a decsion on where I could improve the structural design of my part to improve strength helps me tie all these processes together. I really appreciated this assignment as it provided me with much needed expereince and exposed me to new solutins and how to go about certain challenges I may encounter in the engineering world. In total for this project I spent right around 8 hours to complete all parts. 
+Although some pf my meshes specfically the 3rd mesh in each iteration did not converge well at all, through out the project everytime a new design was implmented it succesfully converged. The reason the mesh may have not was due to several sharp, pointed edges still remaining.Throughout this whole assignment it really improved my engineering mindset in continous improvement. By using FEA to determine where members were the weakest and using the information computed to help make a decsion on where I could improve the structural design of my part to improve strength helps me tie all these processes together. I really appreciated this assignment as it provided me with much needed expereince and exposed me to new solutins and how to go about certain challenges I may encounter in the engineering world. In total for this project I spent right around 10.5 hours to complete all parts. 
 
 
 ## 2157 Only
