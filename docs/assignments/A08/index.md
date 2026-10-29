@@ -50,7 +50,7 @@ Following this step, I copied this part and duplicated it in order to complete t
 
 
 ## Lessons Learned
-This whole asignmnt served as a lesson for me as I finally was able to use SolidWorks for the first time and this assignment specifically helped use a number of tools to be able to get a solid understanding of the software. Another lesson I learned was understanding mechanics of gears as the whole basis of this project was to grasp that concept adn design a functional gearbox.
+This whole asignmnt served as a lesson for me as I finally was able to use SolidWorks for the first time and this assignment specifically helped use a number of tools to be able to get a solid understanding of the software. Another lesson I learned was understanding mechanics of gears as the whole basis of this project was to grasp that concept adn design a functional gearbox. This assignment took me about 5 hours to complete when combined with calculations, CAD modeling, and documentation.
 
 ## 2157 Part
 
