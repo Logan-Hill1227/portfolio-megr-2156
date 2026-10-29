@@ -50,4 +50,8 @@ Following this step, I copied this part and duplicated it in order to complete t
 
 
 ## Lessons Learned
+This whole asignmnt served as a lesson for me as I finally was able to use SolidWorks for the first time and this assignment specifically helped use a number of tools to be able to get a solid understanding of the software. Another lesson I learned was understanding mechanics of gears as the whole basis of this project was to grasp that concept adn design a functional gearbox.
 
+## 2157 Part
+
+For the 2157 part I produced 6 Engineering Drawings of my 2 shafts, 2 casing componets, 2 bearings as well as the drawing of the assembly in its entirety. I followed ASME Y14.5 standards and ensuring this was in Third-Angle projection. The drawings and CAD part are attatched below in the zip file.
