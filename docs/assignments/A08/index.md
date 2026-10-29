@@ -55,3 +55,6 @@ This whole asignmnt served as a lesson for me as I finally was able to use Solid
 ## 2157 Part
 
 For the 2157 part I produced 6 Engineering Drawings of my 2 shafts, 2 casing componets, 2 bearings as well as the drawing of the assembly in its entirety. I followed ASME Y14.5 standards and ensuring this was in Third-Angle projection. The drawings and CAD part are attatched below in the zip file.
+
+[A8.zip](https://github.com/user-attachments/files/34110577/A8.zip)
+
