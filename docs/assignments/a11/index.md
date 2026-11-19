@@ -1,9 +1,9 @@
 <div class="pdf-container">
   <h2>Evan's Team Document</h2>
-  <iframe src="Evan’s Team_ Logan Hill, Evan Morrow, Levi Elliot.pdf" width="100%" height="600px">
-    <p>Your browser does not support PDFs. <a href="Evan’s Team_ Logan Hill, Evan Morrow, Levi Elliot.pdf" target="_blank">Download the PDF</a>.</p>
+  <iframe src="Evan’s-Team-Part-2.pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. <a href="Evan’s-Team-Part-2.pdf" target="_blank">Download the PDF</a>.</p>
   </iframe>
-  <p class="pdf-fallback">Having trouble viewing? <a href="Evan’s Team_ Logan Hill, Evan Morrow, Levi Elliot.pdf" target="_blank">Click here to open or download the PDF</a>.</p>
+  <p class="pdf-fallback">Having trouble viewing? <a href="Evan’s-Team-Part-2.pdf" target="_blank">Click here to open or download the PDF</a>.</p>
 </div>
 
 <style>
